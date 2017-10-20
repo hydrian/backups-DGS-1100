@@ -1,6 +1,8 @@
 <?php 
 define('DEFAULT_BACKUP_DIR', '/var/backups');
 define('DEFAULT_CONFIG_FILE', '/etc/backup-DSG-1100.xml');
+define('DEFAULT_LOG_FACILITY', LOG_USER);
+define('DEFAULT_LOG_LEVEL', LOG_WARNING);
 
 /*
  * Supporting functions
