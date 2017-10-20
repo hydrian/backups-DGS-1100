@@ -1,0 +1,7 @@
+<configuation>
+	<backupDirectory></backupDirectory>
+	<ipAddress>192.168.1.3</ipAddress>
+<password>mypassword</password>
+<savePasswordsInConfigurationBackup>true</savePasswordsInConfigurationBackup>
+<backupFirmware>true</backupFirmware>
+</configuation>
