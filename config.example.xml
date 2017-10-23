@@ -1,12 +1,11 @@
-<configuation>
+<!DOCTYPE configuation SYSTEM "configuation.dtd"><configuation>
 	<backupDirectory></backupDirectory>
 	<!-- Only user IPv4 addresses. -->
 	<IPv4>192.168.1.3</IPv4>
-	<!--Make sure password tag value is XML escaped -->
+	<!--Make sure password element value is XML escaped -->
 	<password>mypassword</password>
 	<savePasswordsInConfigurationBackup>true
 	</savePasswordsInConfigurationBackup>
 	<backupFirmware>true</backupFirmware>
 	<logFacility>USER</logFacility>
-	<logLevel>WARNING</logLevel>
 </configuation>
